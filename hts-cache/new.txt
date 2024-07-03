@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:00:12	2166122/2166122	---MCZ	200	added ('OK')	text/html	date:Wed,%2003%20Jul%202024%2014:00:11%20GMT	https://twibbon.unw.ac.id/tw/twibbon-idul-adha-1445-h	/home/pubgkr01392/websites/senpai/twibbon.unw.ac.id/tw/twibbon-idul-adha-1445-h.html	(from )
+14:00:12	119113/119113	---M--	404	error ('Page%20not%20found:%20/robots.txt')	text/html	date:Wed,%2003%20Jul%202024%2014:00:11%20GMT	https://twibbon.unw.ac.id/robots.txt		(from )
